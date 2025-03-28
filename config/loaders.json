@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "VALORANT EXTERNAL",
-            "name": "VALORANT EXTERNAL CHAIR",
-            "categoryId": "valorant",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT.png",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Loader_LD.exe",
-            "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
-        },
-        {
             "id": "Force Save",
             "name": "Force Save",
             "categoryId": "bo6",
