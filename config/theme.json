@@ -1,24 +1,24 @@
 {
     "theme": {
         "core": {
-            "primary": "#FF0000",
+            "primary": "#007bff",
             "secondary": "#202020",
-            "accent": "#FF0000",
-            "scrollbar": "#FF0000"
+            "accent": "#007bff",
+            "scrollbar": "#007bff"
         },
         "text": {
             "primary": "#FFFFFF",
             "secondary": "#D0D0D0"
         },
         "button": {
-            "category": "#FF0000",
-            "action": "#FF0000"
+            "category": "#007bff",
+            "action": "#007bff"
         },
         "background": {
             "main": "#121212",
             "custom-image": "",
-            "logoImage": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BLACK_IRIS_LOGO.png",
-            "background-anim": "stars"
+            "logoImage": "",
+            "background-anim": "snow"
         },
         "fixed": {
             "titleBar": "#121212"
@@ -44,7 +44,7 @@
         },
         "settings": {
             "defaultListView": false,
-            "defaultLanguage": "fr"
+            "defaultLanguage": "en"
         }
     }
 }
