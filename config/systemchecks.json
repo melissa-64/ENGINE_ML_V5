@@ -6,14 +6,14 @@
             "expectedValue": true,
             "fixable": false,
             "enabled": true,
-            "tutorialLink": "https://iris-corporation.gitbook.io/guide/choose-your-language/undefined/virtualization"
+            "tutorialLink": ""
         },
         {
             "key": "SecureBootDisabled",
             "expectedValue": false,
             "fixable": false,
             "enabled": true, 
-            "tutorialLink": "https://iris-corporation.gitbook.io/guide/choose-your-language/undefined/secure-boot"
+            "tutorialLink": ""
         },
         {
             "key": "HyperVDisabled",
@@ -38,7 +38,7 @@
             "expectedValue": true,
             "fixable": false,
             "enabled": false,
-            "tutorialLink": "https://www.microsoft.com/fr-fr/software-download/windows10"
+            "tutorialLink": ""
         },
         {
             "key": "WindowsDefenderDisabled",
