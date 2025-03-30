@@ -1,14 +1,6 @@
 {
     "loaders": [
         {
-            "id": "T9Engine",
-            "name": "T9Engine",
-            "categoryId": "bo6",
-            "downloadUrl": "",
-            "status": "online",
-            "productUrl": ""
-        },
-        {
             "id": "Unlock Engine",
             "name": "Unlock Engine",
             "categoryId": "bo6",
