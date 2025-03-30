@@ -1,3 +1,13 @@
 {
-    "loaders": []
+    "loaders": [
+        {
+            "id": "Engine V4",
+            "name": "Engine V4",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cdn.discordapp.com/attachments/1116375638631256167/1356044813639876879/v4_engine.exe?ex=67eb22a5&is=67e9d125&hm=be527365ecef94fe1270a04c8a9f2aa1dfd51cad09924bf3958730f91f9a14bf&",
+            "status": "custom",
+            "imageUrl": "https://cdn.discordapp.com/attachments/1116375638631256167/1356044692575228097/1.png?ex=67eb2288&is=67e9d108&hm=7c36fa830a92ab7aa8660237e8f6a842361c2d30c0d651792099444f1a50052f&",
+            "productUrl": ""
+        }
+    ]
 }
