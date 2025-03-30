@@ -1,14 +1,6 @@
 {
     "loaders": [
         {
-            "id": "Force Save",
-            "name": "Force Save",
-            "categoryId": "bo6",
-            "downloadUrl": "",
-            "status": "online",
-            "productUrl": ""
-        },
-        {
             "id": "Core Engine",
             "name": "Core Engine",
             "categoryId": "bo6",
