@@ -1,14 +1,6 @@
 {
     "loaders": [
         {
-            "id": "Core Engine",
-            "name": "Core Engine",
-            "categoryId": "bo6",
-            "downloadUrl": "https://reflexcheats.dev/launcher.exe",
-            "status": "online",
-            "productUrl": ""
-        },
-        {
             "id": "BOEngine",
             "name": "BOEngine",
             "categoryId": "bo6",
