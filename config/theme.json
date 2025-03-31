@@ -3,7 +3,8 @@
         "core": {
             "primary": "#007bff",
             "secondary": "#202020",
-            "accent": "#007bff",
+            "border": "#007bff",
+            "divider": "#252525",
             "scrollbar": "#007bff"
         },
         "text": {
@@ -16,12 +17,10 @@
         },
         "background": {
             "main": "#121212",
+            "overlay": "rgba(0,0,0,0.5)",
             "custom-image": "",
             "logoImage": "",
             "background-anim": "snow"
-        },
-        "fixed": {
-            "titleBar": "#121212"
         },
         "border": {
             "radius": {
